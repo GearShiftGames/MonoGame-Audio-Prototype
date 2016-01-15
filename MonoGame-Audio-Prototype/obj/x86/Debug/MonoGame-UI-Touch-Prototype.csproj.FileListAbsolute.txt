@@ -1,0 +1,83 @@
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\MonoGame-UI-Touch-Prototype.exe
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\MonoGame-UI-Touch-Prototype.pdb
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.dll
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.xml
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\obj\x86\Debug\MonoGame-UI-Touch-Prototype.csprojResolveAssemblyReference.cache
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\obj\x86\Debug\MonoGame-UI-Touch-Prototype.exe
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\obj\x86\Debug\MonoGame-UI-Touch-Prototype.pdb
+C:\Users\deano_000\SkyDrive\University Files\Third Year\Prototype Game Development\Projects\MonoGame-UI-Touch-Prototype\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\Content\car.png
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\Content\car.png
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\MonoGame-UI-Touch-Prototype.exe
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\MonoGame-UI-Touch-Prototype.pdb
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\MonoGame.Framework.dll
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.dll
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.XInput.dll
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\MonoGame.Framework.xml
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.xml
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.XInput.xml
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\obj\x86\Debug\MonoGame-UI-Touch-Prototype.csprojResolveAssemblyReference.cache
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\obj\x86\Debug\MonoGame-UI-Touch-Prototype.exe
+E:\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\obj\x86\Debug\MonoGame-UI-Touch-Prototype.pdb
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\obj\x86\Debug\MonoGame-UI-Touch-Prototype.exe
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\obj\x86\Debug\MonoGame-UI-Touch-Prototype.pdb
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\Content\car.png
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\MonoGame-UI-Touch-Prototype.exe
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\MonoGame-UI-Touch-Prototype.pdb
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.dll
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.xml
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\Content\Chicken 3.wma
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\Content\Chicken 3.xnb
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\Content\Driving Gear Change.wma
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\Content\Driving Gear Change.xnb
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\Content\Driving.wma
+E:\Third year uni work\Semester 1\Prototype Game Development\GearShift Games\Project Cows\MonoGame-Touch-UI-Prototype-master\MonoGame-Touch-UI-Prototype-master\MonoGame-UI-Touch-Prototype\bin\Windows\Debug\Content\Driving.xnb

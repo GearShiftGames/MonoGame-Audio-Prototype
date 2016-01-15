@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Third year uni work/Semester 1/Prototype Game Development/GearShift Games/Project Cows/MonoGame-Touch-UI-Prototype-master/MonoGame-Touch-UI-Prototype-master/MonoGame-UI-Touch-Prototype/Content/Driving.mp3</File>
+    <File>E:/Third year uni work/Semester 1/Prototype Game Development/GearShift Games/Project Cows/MonoGame-Touch-UI-Prototype-master/MonoGame-Touch-UI-Prototype-master/MonoGame-UI-Touch-Prototype/Content/Driving Gear Change.mp3</File>
+    <File>E:/Third year uni work/Semester 1/Prototype Game Development/GearShift Games/Project Cows/MonoGame-Touch-UI-Prototype-master/MonoGame-Touch-UI-Prototype-master/MonoGame-UI-Touch-Prototype/Content/Chicken 3.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>
